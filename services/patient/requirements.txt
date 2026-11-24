@@ -1,0 +1,6 @@
+flask
+mysql-connector-python
+pydantic>=2
+email-validator
+requests
+werkzeug
